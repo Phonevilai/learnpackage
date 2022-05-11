@@ -1,3 +1,3 @@
-module github.com/Phonevilai/learnpackage/v1
+module github.com/Phonevilai/learnpackage
 
 go 1.18

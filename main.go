@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/Phonevilai/learnpackage/v1/pkg/test1"
-	"github.com/Phonevilai/learnpackage/v1/tockhelloworld"
+	"github.com/Phonevilai/learnpackage/pkg/test1"
+	"github.com/Phonevilai/learnpackage/tockhelloworld"
 )
 
 func main() {
